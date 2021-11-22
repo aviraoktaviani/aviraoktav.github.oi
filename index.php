@@ -104,7 +104,6 @@ footer {
 </form>
 </article>
 	 </section>
-
 	   
 <footer>
  <p>Di Buat Oleh <br> Avira Oktaviani XII RPL 1</p>
